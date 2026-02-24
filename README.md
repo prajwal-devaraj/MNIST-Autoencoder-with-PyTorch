@@ -46,3 +46,7 @@ Output Sample
 The script saves a comparison image showing original vs. reconstructed MNIST digits:
 ```
 | Original Digits | → | Reconstructed Digits |
+
+```
+
+pdevaraj001@gmail.com
